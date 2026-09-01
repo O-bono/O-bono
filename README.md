@@ -1,87 +1,148 @@
-# 👨‍💻 Miguel Cabral
+<!-- ========================= -->
 
-### `DESENVOLVEDOR FRONT-END`
+<!--        ▲ MIGUEL CABRAL ▲      -->
 
-Olá! Eu sou **Miguel Cabral**, tenho 19 anos e sou estudante de **Sistemas de Informação na CESAR School**.
+<!-- ========================= -->
 
-Atualmente estou construindo minha experiência na área de desenvolvimento de software, com foco principalmente em **desenvolvimento Front-End**, buscando transformar ideias em interfaces funcionais, organizadas e intuitivas.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C2BD9&height=180&section=header&text=Miguel%20Cabral&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-Recentemente venho ampliando meus conhecimentos em programação, desenvolvimento web e construção de projetos, sempre buscando aprender novas tecnologias e melhorar minhas práticas de desenvolvimento.
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Front-End;Tudo+é+fluxo.;Comunicação+é+a+chave+da+excelência;Aprender.+Construir.+Evoluir.;Transformando+ideias+em+interfaces.&font=Fira%20Code&center=true&width=600&height=50&color=9B6DFF&vCenter=true&pause=1500&size=20"/>
+  </a>
+</p>
 
----
-
-## 🚀 Tecnologias
-
-Atualmente trabalho e estudo principalmente com:
-
-<div align="left">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
-
-</div>
-
-### 💻 Conhecimentos
-
-* **HTML5** — Estruturação e semântica de páginas web
-* **CSS3** — Estilização, layouts e interfaces responsivas
-* **Python** — Lógica de programação, estruturas de dados e desenvolvimento de aplicações
-* **C#** — Fundamentos de programação e desenvolvimento de aplicações
+<br>
 
 ---
 
-## 📚 Atualmente estudando
+## 👨‍💻 Sobre mim
 
-Estou constantemente ampliando meus conhecimentos em desenvolvimento de software, principalmente nas áreas de:
+Olá! Eu sou **Miguel Cabral**, tenho 19 anos e sou pernambucano.
 
+Atualmente curso **Sistemas de Informação na CESAR School** e estou construindo minha trajetória como desenvolvedor, com foco principalmente em **Front-End**.
+
+Gosto de entender como as coisas funcionam, transformar ideias em projetos e aprender através da prática.
+
+Ainda estou no começo da minha jornada, mas cada projeto representa uma nova oportunidade de evoluir.
+
+> **Tudo é fluxo.**
+> Código, ideias, aprendizado e evolução.
+
+---
+
+## 💜 Tecnologias
+
+### 🌐 Desenvolvimento Web
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-6C2BD9?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-7C3AED?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🧠 Programação
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-6D28D9?style=for-the-badge&logo=csharp&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 O que estou construindo
+
+Atualmente estou focado em desenvolver projetos que me ajudem a transformar conhecimento em experiência prática.
+
+### Algumas áreas que estou explorando:
+
+* 🎨 Desenvolvimento de interfaces
 * 🌐 Desenvolvimento Front-End
-* 🎨 UI e construção de interfaces
 * 🧠 Lógica de programação
 * 🐍 Python
 * 💜 C#
-* 📊 Desenvolvimento de sistemas
-* 🔧 Boas práticas de programação
+* 📱 Interfaces responsivas
+* 🔧 Organização e estruturação de projetos
+* 📚 Aprendizado contínuo
 
 ---
 
-## 🛠️ Projetos
+## 📂 Projetos
 
-Aqui você encontrará projetos desenvolvidos durante minha trajetória acadêmica e de aprendizado.
+Aqui estão alguns dos projetos que fazem parte da minha jornada como desenvolvedor.
 
-Alguns deles têm como objetivo colocar em prática conceitos de:
+<p align="center">
 
-* Desenvolvimento Web
-* HTML e CSS
-* JavaScript
-* Python
-* C#
-* Sistemas de gerenciamento
-* Interfaces e dashboards
+<a href="https://github.com/SEU_USUARIO?tab=repositories">
+<img src="https://img.shields.io/badge/Ver%20meus%20projetos-6C2BD9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-> 🚧 **Em constante construção:** este perfil acompanha minha evolução como desenvolvedor.
+</p>
 
----
-
-## 🎯 Objetivo
-
-Meu objetivo é evoluir constantemente como **desenvolvedor de software**, adquirindo experiência prática e construindo projetos que demonstrem minhas habilidades.
-
-Atualmente tenho um interesse especial por **Front-End**, mas também busco desenvolver uma base sólida em programação e desenvolvimento de sistemas.
+> 🚧 **Este perfil está em construção.**
+>
+> Novos projetos e experimentos serão adicionados conforme minha evolução.
 
 ---
 
-## 📫 Contato
+## 📊 GitHub
 
-Se quiser acompanhar minha evolução ou trocar uma ideia sobre tecnologia, fique à vontade para entrar em contato.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
 
-**GitHub:** [Miguel Cabral](https://github.com/)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d1117&color=9B6DFF&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
+</p>
 
 ---
 
-<div align="center">
+## 🎯 Atualmente
 
-### 💻 `Code. Learn. Build. Repeat.`
+```text
+📚 Estudando        Sistemas de Informação
+💻 Foco             Desenvolvimento Front-End
+🌐 Web              HTML + CSS
+🐍 Programação      Python
+💜 Programação      C#
+🚀 Objetivo         Evoluir como desenvolvedor
+```
 
-</div>
+---
+
+## 💬 Algumas ideias que representam minha jornada
+
+> **"Tudo é fluxo."**
+
+> **"Comunicação é a chave da excelência."**
+
+> **"Aprender é construir algo que ainda não existia."**
+
+> **"Não preciso saber tudo. Preciso continuar evoluindo."**
+
+---
+
+## 📫 Vamos nos conectar?
+
+<p align="center">
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-6C2BD9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SEU_USUARIO">
+  <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C2BD9&height=100&section=footer"/>
+</p>
